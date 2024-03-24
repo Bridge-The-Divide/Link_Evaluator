@@ -4,4 +4,4 @@ A tool that somehow tries to evaluate links by atrributing them a seriousness va
 
 This tool might be very delicate and problematic but might become better and trusted by time.
 
-What do you think aubot this?
+What do you think aubot this? Please don't discuss here. Use our [Wiki](https://github.com/Bridge-The-Divide/Link_Evaluator/wiki) instead for your thoughts and ideas.
